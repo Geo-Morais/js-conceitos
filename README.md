@@ -1,2 +1,1 @@
-# js-conceitos
-Conceitos de JavaScript
+## Conceitos de JavaScript
